@@ -957,6 +957,10 @@ Contributed by Chunyang Zhang.
 
    *Lawson Oliveira Lima, Julien Rosenberger, Esteban Antier, and Frederic Magoules.*
 
+1. **Variational operator learning: A unified paradigm marrying training neural operators and solving partial differential equations.** arXiv, 2023. [paper](https://arxiv.org/abs/2304.04234)
+
+   *Tengfei Xu, Dachuan Liu, Peng Hao, and Bo Wang.*
+
 ### [Convolution](#content)
 1. **PDE-Net: Learning PDEs from data.** ICML, 2018. [paper](https://proceedings.mlr.press/v80/long18a.html)
 
